@@ -1,7 +1,7 @@
 
 ## 액티비티 생명주기
 
-![img.png](img.png)
+![img.png](..%2F%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20CS%2Fimg.png)
 - onCreate()
   - 액티비티 생성 시 -> 초기화 작업, 인터페이스 설정 
 - onStart()
